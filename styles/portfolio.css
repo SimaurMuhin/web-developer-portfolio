@@ -3,6 +3,7 @@ nav{
     display: flex;
 align-items: center;
 justify-content: space-between;
+margin: 0px 190px;
 }
  body {
 
@@ -43,7 +44,23 @@ border-radius: 5px;
 background-color: #FD6E0A;
 color: white;
 font-size: 20px;
-font-style: 700px
-;
+font: style 700px;;
 padding: 15px 36px;
+
+}
+
+/* header related style  */
+
+.header{
+background-color: #fff7ee;
+
+}
+
+.banner{
+    margin: 30px 30px 30px 150px;
+display: flex;
+align-items: center;
+}
+.pro-pic{
+    width: 490px;
 }
