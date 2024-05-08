@@ -117,7 +117,7 @@ margin: 0px auto;
     background-color: #FFF8F3;
 
     margin-top: 34px;
-/* margin-bottom: 34px; */
+margin-bottom: 34px;
 }
 .section-titel{
 color: #181818;
@@ -154,6 +154,7 @@ font-size: 19px;
     text-align: center;
 
 }
+/* skills related styles */
 #what-i-do-discription{
 padding: 35px 150px;
 font-size: 20px;
@@ -161,3 +162,44 @@ color: #757575;
 text-align: center;
 }
 
+.skills{
+    padding: 30px;
+border-radius: 5px;
+
+background-color:white;
+box-shadow: 0px  6px 50px 0px rgba(0,0,0,0.06);
+
+}
+.skills-container{
+display: flex;
+text-align: left;
+gap: 20px;
+}
+.skill-discription{
+
+    padding-top: 20px;
+    color: #757575;
+   font-size: 16px;
+}
+
+.skill-titel{
+color: #181818;
+    padding-top: 20px;
+    font-size: 20px;
+}
+/* resume styles */
+
+/* resume column titel */
+.resume-column-titel{
+    font-size: 30px;
+    color: #474747;
+    font-weight: 700px;
+}
+
+.resume-item{
+
+    padding: 30px 0px;
+}
+
+.resume-item-titel{
+}
