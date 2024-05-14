@@ -125,13 +125,14 @@ color: #181818;
 font-size: 35px;
 text-align: center;
 font-weight: 650px;
-
+padding-bottom: 30px;
 }
 .section-discription{
 color: #757575;
 font-size: 23px;
 text-align: center;
 padding-top: 25px;
+margin-bottom: 25px;
 }
 
 .about-info-container{
@@ -262,6 +263,14 @@ width: 50%;
     width: 100%;
 }
 
+
+
 .socila-links a{
 padding-right: 25px;
+}
+
+.socila-links a{
+
+    margin-right: 25px;
+
 }
