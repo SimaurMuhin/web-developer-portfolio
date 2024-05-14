@@ -250,7 +250,7 @@ width: 50%;
 }
 /* form section ... */
 
-.contact input, textarea {
+.contact input[type="text"], textarea , .contact input[ type="email"] {
     display: block;
     margin-bottom: 30px;
     padding: 18px 34px;
@@ -258,4 +258,9 @@ width: 50%;
     border-radius: 6px;
     background-color: white;
     border: 0px;
+    width: 100%;
+}
+
+.socila-links a{
+padding-right: 25px;
 }
